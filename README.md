@@ -43,7 +43,7 @@ This repository contains a collection of academic and professional projects show
 
 ## Usage
 Each folder contains:
-- A summarized project report (`Summarized_Report.pdf`) detailing the key objectives, methodologies, and results.
+- A summarized project report detailing the key objectives, methodologies, and results.
 - Relevant simulation files and scripts for replication or further analysis.
 - Additional resources such as data files where applicable.
 
