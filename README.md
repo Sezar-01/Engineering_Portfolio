@@ -1,7 +1,7 @@
 # Engineering Portfolio
 
 ## Overview
-This repository contains a collection of academic and professional projects showcasing expertise in analog and digital circuit design, machine learning, and system optimization. Each folder represents a distinct project, highlighting its objectives, methodologies, and tools used.
+This repository contains a collection of academic and professional projects showcasing expertise in analog circuit design, machine learning, and system optimization. Each folder represents a distinct project, highlighting its objectives, methodologies, and tools used.
 
 ## Repository Structure
 
